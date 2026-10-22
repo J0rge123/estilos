@@ -1,0 +1,21 @@
+a:link {
+    background-color: cornflowerblue;
+    font-size: large;
+    color: aliceblue;
+}
+
+a:visited {
+    background-color: aquamarine;
+    color: aqua;
+}
+
+a:hover {
+    background-color: black;
+    color: blue;
+}
+
+a:active {
+    background-color: azure;
+    color: beige;
+}
+

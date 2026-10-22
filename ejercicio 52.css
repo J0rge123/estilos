@@ -1,0 +1,9 @@
+ol li:first-child {
+    color: green;
+}
+
+ol li:last-child {
+    color: rgb(17, 0, 255);
+}
+
+/*seleccionamos al primero y ultimo hijo, creo que serviria para delimitar una lista o algo asi, no le encuantro mas utilidad :)*/

@@ -1,0 +1,9 @@
+strong::before {
+    content: "¡";
+    color: red;
+}
+
+strong::after {
+    content: "!";
+    color: red;
+}

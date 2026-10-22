@@ -1,0 +1,25 @@
+body {
+    padding: 10px;
+}
+#caja1 { 
+    color: aqua, black;
+    background-color: blueviolet;
+}
+
+#caja3 {
+    position: absolute;
+    background-color: #f99;
+    font-family: verdana;
+    font-size: 1.3rem;
+}
+
+#caja2 {
+    background-color: #ff0;
+    font-size: 1.3rem;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    }
+
+
+/*osea  que los ordena pero permite que se superpongan*/

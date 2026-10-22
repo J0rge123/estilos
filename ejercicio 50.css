@@ -1,0 +1,9 @@
+h1+p {
+    color: #f00;
+}
+
+h2~p {
+    color: #f00;
+}
+
+/*es para ser increiblemente especifico, un parrafo que le sigue a otro o algo asi como esteblecer condiciones para que se aplique un estilo*/
